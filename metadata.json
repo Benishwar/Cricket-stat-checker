@@ -1,0 +1,7 @@
+{
+  "name": "CricStats Pro - AI Cricket Analyst",
+  "description": "A comprehensive cricket statistics platform using Gemini AI to provide real-time insights, player comparisons, and deep-dive analysis across Test, ODI, T20I, and IPL formats.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
